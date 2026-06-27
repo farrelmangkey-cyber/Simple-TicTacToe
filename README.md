@@ -36,11 +36,6 @@ The application uses a single table named `players`, which stores both login cre
 5. Compile all files in the `src/` folder.
 6. Run `Main.java` to start the application.
 
-Example commands (Windows PowerShell):
-```
-javac -cp "lib\mysql-connector-j-8.0.33.jar" -d bin src\*.java
-java -cp "bin;lib\mysql-connector-j-8.0.33.jar" Main
-```
 
 ## Default Login Accounts
 | Username  | Password |
